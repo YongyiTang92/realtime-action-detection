@@ -329,3 +329,4 @@ If this work has been helpful in your research please consider citing [1] and [4
 - [Original SSD Implementation (CAFFE)](https://github.com/weiliu89/caffe/tree/ssd)
 - A huge thanks to Max deGroot, Ellis Brown for Pytorch implementation of [SSD](https://github.com/amdegroot/ssd.pytorch)
  
+# Modified by YY
